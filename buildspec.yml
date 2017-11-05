@@ -1,0 +1,13 @@
+version 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to see here
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - styles/main.css
+    - images/*
